@@ -46,8 +46,3 @@ This dashboard highlights card usage patterns, transaction behaviors, and credit
 Created by [Appu](https://github.com/Appuhosamani02). Feel free to reach out for queries or suggestions!
 
 ---
-
-## Acknowledgments
-
-Special thanks to the contributors of Power BI community forums and online resources for their guidance.
-
